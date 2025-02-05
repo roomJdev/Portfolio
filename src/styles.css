@@ -38,6 +38,14 @@ section {
     margin: auto;
 }
 
+.sectionCover {
+    background: #ff0000;
+    padding: 30px;
+    margin: 15px;
+    border-radius: 7px;
+}
+
+
 /* 학력 섹션 스타일 */
 .career-item {
     background: white;
